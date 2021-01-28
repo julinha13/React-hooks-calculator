@@ -1,0 +1,15 @@
+.display{
+    grid-column: span 4;
+    padding: 0px 20px;
+    margin: 20px 0px;
+    font-size: 35px;
+    color: #fff;
+    display: flex;
+    justify-content: flex-end;
+    overflow: hidden;
+    border-bottom: solid 1px #545454;
+}
+
+.operationSign{
+    color: #3cad17cc;
+}

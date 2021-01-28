@@ -1,0 +1,27 @@
+.Button {
+    font-size: 18px;
+    border-radius: 50px;
+    margin: 5px;
+    color: #fff;
+    background-color: #121212;
+}
+
+.Button:active {
+    background-color: #393b3b;
+}
+
+.Button:focus {
+    outline: none;
+}
+
+.operation{
+    color: #3cad17;
+}
+
+.equal{
+    background-color: #3cad17;
+}
+
+.clear{
+    color: red;
+}
