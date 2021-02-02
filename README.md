@@ -2,7 +2,7 @@
 
 A very simple calculator created using react hooks (Layout inspirated on Smsung's Calculator)! 
 
-- [Local Setup](#Setup)
+- [Local Setup](#Local-Setup)
 - [Install dependences](#Install-dependences)
 - [Run Locally](#prototipos-de-tela)
 - [Preview](#scrum)
